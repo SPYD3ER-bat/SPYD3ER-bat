@@ -184,7 +184,7 @@ class OmGawande {
 <div align="center">
   <div style="display: flex; justify-content: space-between; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=SPYD3ER-bat&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SPYD3ER-bat&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" width="49%" />
+    
   </div>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPYD3ER-bat&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Most Used Languages" width="44%" />
