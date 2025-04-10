@@ -17,7 +17,7 @@
 
 <br>
 
-## <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5db6e5f4a7622c3e74b73ddad646e447.gif" width="30"> About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
 <div align="center">
   <img align="right" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5db6e5f4a7622c3e74b73ddad646e447.gif" />
