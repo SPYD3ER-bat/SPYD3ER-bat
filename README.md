@@ -1,91 +1,94 @@
 
-<!-- Header Banner -->
-<h1 align="center">✨ Om Sudhir Gawande ✨</h1>
-<h3 align="center">Creative Full Stack Developer | UI/UX Specialist | MERN Maestro</h3>
-
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&width=435&lines=Turning+Ideas+into+Beautiful+Interfaces;Crafting+Responsive+Web+Experiences;Powered+by+MERN+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=66FCF1&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Om+Gawande!;Full+Stack+Developer+%7C+UI%2FUX+Engineer;React.js+%7C+Node.js+%7C+Tailwind+Lover;Always+learning+new+tech+%F0%9F%9A%80" />
 </p>
+
+<h2 align="center">✨ Developer | Designer | Dreamer ✨</h2>
 
 ---
 
-### 🧠 Who Am I?
+### 🧠 About Me
 
 ```js
-const dev = {
-  name: "Om Gawande",
+const om = {
   role: "Full Stack Developer & UI/UX Designer",
-  location: "🌍 Pune, India",
-  techFocus: ["React.js", "Node.js", "MongoDB", "TailwindCSS", "NLP"],
-  goals: ["Build SaaS apps", "Create aesthetic dev tools", "Explore AI integrations"],
-  contact: "om.sudhir.gawande@gmail.com"
+  techFocus: ["React", "Node.js", "MongoDB", "TailwindCSS", "Gemini AI"],
+  toolsILove: ["Framer", "Figma", "VSCode", "GitHub"],
+  hobbies: ["Animating UIs", "Building side projects", "Exploring AI/ML"],
+  portfolio: "https://omdevportfolio.framer.website",
 };
 ```
 
-💬 I build engaging web apps, design slick interfaces, and love transforming ideas into smooth, performant user experiences.
+🌱 Currently crafting responsive web interfaces with MERN stack + AI  
+💡 Exploring design systems and micro-interactions  
+🎯 Fun fact: I boost user engagement by up to 40% through design  
 
 ---
 
-### 🚀 Featured Projects
+### 🔥 Highlight Projects
 
-🎯 **Chat-GPT Enhanced w/ Gemini AI**  
-*→ MERN, Gemini AI API*  
-> An intelligent chatbot supercharged with Gemini AI — aiming for 98% accuracy and a sleek conversational UI.
+📌 **Chat-GPT Enhanced (Gemini AI + MERN)**  
+> A next-gen chatbot built with Google’s Gemini API to boost AI response accuracy and create immersive UX flows.
 
-🧠 **AI Resume Analyzer**  
-*→ Python, NLP, Streamlit, MySQL*  
-> Parses and analyzes resumes using NLP. Achieves 95%+ accuracy in structured data extraction.
+📌 **AI Resume Analyzer**  
+> Streamlit + NLP-powered web app that parses resumes with 95% accuracy and displays insights with a stunning UI.
 
-🖥️ **Personal Portfolio Website**  
-*→ React.js, JSON, Animated.css*  
-> A visually rich interactive portfolio designed with smooth transitions and dynamic UI.  
-🔗 [View Live](https://omdevportfolio.framer.website)
+📌 **Dynamic Dev Portfolio**  
+> Built in React, styled with Animated.css, JSON-powered structure. Click-through rate rose 20% after animation revamp.  
+🔗 [See Live](https://omdevportfolio.framer.website)
 
-📱 **Student Result Management App**  
-*→ Java, Firebase, Android*  
-> Multi-role app with Firebase integration. Reduced latency by 85% and increased usability to 95%.
-
-🧪 **Online Quiz Portals (Java & PHP)**  
-*→ Dynamic backend, smooth interface*  
-> Realtime online exams system with <3% error rate and scalability improvements of up to 75%.
-
-🚘 **Car Rental System**  
-*→ PHP, MySQL*  
-> Luxury car rental interface with user filtering — 25% faster bookings and 40% backend optimization.
+📌 **Quiz Portal + Car Rental App**  
+> Modern, scalable web apps with intuitive UIs and <3% error rates using PHP, Java, Firebase, and MySQL.
 
 ---
 
-### 🎨 Tech Stack
+### 💻 My Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,php,mysql,java,python,figma,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,php,python,java,figma,git,github,vscode" />
 </p>
 
 ---
 
-### 📈 GitHub Insights
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OMGawande&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OMGawande&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=OMGawande&show_icons=true&theme=tokyonight&hide_border=false" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMGawande&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
-### 🌐 Let’s Connect & Collaborate
+### 🧩 Skills Progress (Just for Fun 😉)
+
+```
+React         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ 85%
+Node.js       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ 75%
+TailwindCSS   ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ 70%
+UI/UX Design  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 85%
+Python & AI   ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ 65%
+```
+
+---
+
+### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:om.sudhir.gawande@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/om-cybersec-webdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://omdevportfolio.framer.website/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:om.sudhir.gawande@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/om-cybersec-webdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://omdevportfolio.framer.website/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
+<!-- Wavy Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer"/>
 </p>
 
 <p align="center">
-  ✨ Building the future, one pixel at a time ✨
+  <b>Design. Code. Repeat. 🎨💻</b>
 </p>
