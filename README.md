@@ -20,7 +20,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
 <div align="center">
-  <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" />
+  <img align="right" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5db6e5f4a7622c3e74b73ddad646e447.gif" />
 </div>
 
 I'm a **Full Stack Developer** and **UI/UX Designer** who transforms concepts into captivating digital experiences.
@@ -183,13 +183,12 @@ class OmGawande {
 
 <div align="center">
   <div style="display: flex; justify-content: space-between; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SPYD3ER-bat&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
   </div>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Most Used Languages" width="44%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPYD3ER-bat&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Most Used Languages" width="44%" />
   
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=discord&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SPYD3ER-bat&theme=discord&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -197,23 +196,23 @@ class OmGawande {
 ## 🌐 Let's Connect
 
 <div align="center">
-  <a href="https://github.com/YourGitHubUsername">
+  <a href="https://github.com/SPYD3ER-bat">
     <img height="50" src="https://img.icons8.com/nolan/96/github.png"/>
   </a>
-  <a href="https://www.linkedin.com/in/om-cybersec-webdev/">
+  <a href="https://www.linkedin.com/in/om-dev-sec/">
     <img height="50" src="https://img.icons8.com/nolan/96/linkedin.png"/>
   </a>
   <a href="mailto:om.sudhir.gawande@gmail.com">
     <img height="50" src="https://img.icons8.com/nolan/96/apple-mail.png"/>
   </a>
-  <a href="https://your-portfolio-url.com">
+  <a href="https://omdevportfolio.framer.website/">
     <img height="50" src="https://img.icons8.com/nolan/96/domain.png"/>
   </a>
 </div>
 
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=SPYD3ER-bat&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,12,12,12,12&height=100&section=footer" width="100%"/>
