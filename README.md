@@ -1,218 +1,171 @@
+# OM GAWANDE
+
 <div align="center">
   
-# ⚡OM GAWANDE⚡
-
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,12,12,12,12&height=300&section=header&text=Full%20Stack%20Developer&fontSize=60&fontAlignY=40&desc=UI/UX%20Designer%20|%20MERN%20Expert%20|%20AI%20Enthusiast&animation=fadeIn&descAlignY=55&fontColor=ffffff)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=7957D5&center=true&vCenter=true&width=600&height=100&lines=Crafting+Digital+Experiences;Breathing+Life+into+Code;Where+Design+Meets+Function;Building+Tomorrow's+Web+Today)](https://git.io/typing-svg)
+  ![Full Stack Developer | Web Designer](https://img.shields.io/badge/-Full%20Stack%20Developer%20%7C%20Web%20Designer-0A0A0A?style=for-the-badge&logoColor=white)
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-dev-sec/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-1A2C34?style=for-the-badge&logo=framer&logoColor=white)](https://omdevportfolio.framer.website/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPYD3ER-bat)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:om.sudhir.gawande@gmail.com)
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B85F7&center=true&vCenter=true&width=435&lines=Crafting+Digital+Experiences;Full+Stack+Development;MERN+Stack+Specialist;UI%2FUX+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  </p>
 
 </div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" /> About Me
+
+Results-driven **Full-Stack Developer** specializing in **MERN stack** technologies with proven success improving web performance by **20%** and user engagement by **40%**. I combine strong technical expertise in React.js, Node.js, and database management with AI integration skills to deliver responsive, user-centric applications that achieve business objectives while maintaining optimal performance.
 
 <div align="center">
-  <a href="mailto:om.sudhir.gawande@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/om-dev-sec/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://omdevportfolio.framer.website/"><img src="https://img.shields.io/badge/Portfolio-FF3850?style=for-the-badge&logo=Safari&logoColor=white"></a>
-  <a href="tel:+917020267107"><img src="https://img.shields.io/badge/Contact-7020267107-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,html,css,bootstrap,tailwind,git,java,python,php" alt="Tech Stack" />
 </div>
-
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
-
-<div align="center">
-  <img align="right" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5db6e5f4a7622c3e74b73ddad646e447.gif" />
-</div>
-
-I'm a **Full Stack Developer** and **UI/UX Designer** who transforms concepts into captivating digital experiences.
-
-With expertise in **MERN Stack** and a passion for intuitive design, I create applications that don't just function flawlessly—they delight users at every interaction.
-
-My work has:
-- 🚀 **Improved web performance by 20%**
-- 💫 **Enhanced user engagement by 40%**
-- ⏱️ **Reduced booking times by 25%**
-- 📱 **Created responsive designs for all devices**
-
-<br clear="right"/>
 
 ---
 
 ## 💼 Professional Experience
 
+### Frontend Developer
+**GamerzRealm Pvt. Ltd.** | January 2025 - Present
+
+- 🚀 Designed and developed responsive interfaces using **React.js** for GamerzRealm.in
+- 🎨 Implemented cyberpunk-inspired UI/UX design, increasing average session duration by **25%**
+- 🧪 Conducted user testing and iterated on UI enhancements for improved functionality
+- 📈 Collaborated with SEO teams to implement best practices for better organic visibility
+
+### Full Stack Developer
+**Borgward Technology Pvt Ltd** | January 2024 – June 2024
+
+- 🏗️ Architected web applications using **MongoDB, Express.js, React.js, and Node.js**
+- ⚡ Optimized frontend performance by **20%** through code splitting and lazy loading
+- 🎭 Developed an interactive portfolio with advanced CSS animations, enhancing user retention by **40%**
+- 🔄 Engineered RESTful API endpoints resulting in **15%** increased user engagement
+
+---
+
+## 🚀 Projects
+
 <div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/controller.png" width="60"/>
-      <br />
-      <strong>GamerzRealm Pvt. Ltd.</strong>
-      <br />
-      Frontend Developer
-      <br />
-      <small><i>Jan 2025 - Present</i></small>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/fluent/48/000000/technical-support.png" width="60"/>
-      <br />
-      <strong>Borgward Technology</strong>
-      <br />
-      Full Stack Developer
-      <br />
-      <small><i>Jan 2024 - Jun 2024</i></small>
-    </td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td>
+        <h3>Chat-GPT Enhanced Version</h3>
+        <p><strong>MERN Stack, Gemini AI API</strong></p>
+        <p>Engineering a generative AI chat bot with enhanced capabilities and 98% accuracy target using Google's Gemini-AI API</p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/AI_Integration-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="AI" />
+      </td>
+      <td>
+        <h3>Personal Portfolio</h3>
+        <p><strong>React.js, JSON, HTML, CSS, JS</strong></p>
+        <p>Dynamic portfolio website with animated components that increased click-through rate by 20%</p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>AI-Resume Analyzer</h3>
+        <p><strong>Python, Streamlit, NLP, MySQL</strong></p>
+        <p>Interactive web application that extracts resume data with 95% accuracy using NLP algorithms</p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+        <img src="https://img.shields.io/badge/NLP-4285F4?style=flat-square&logo=natural-language-processing&logoColor=white" alt="NLP" />
+      </td>
+      <td>
+        <h3>Student Result Management</h3>
+        <p><strong>Java (Android), Firebase, XML</strong></p>
+        <p>Mobile app with 85% reduced latency through Firebase integration, serving students, teachers and admins</p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🎨 Design & Development Philosophy
+## 🛠️ Technical Skills
 
 <div align="center">
   
-```javascript
-class OmGawande {
-  constructor() {
-    this.approach = {
-      design: ["User-Centered", "Minimalist", "Intuitive", "Engaging"],
-      principles: ["Performance", "Accessibility", "Responsiveness", "Innovation"],
-      process: ["Research", "Prototype", "Test", "Iterate", "Launch"]
-    };
-    this.passion = "Creating experiences that blend aesthetic beauty with technical excellence";
-  }
-  
-  solveProblems(challenge) {
-    return this.approach.process.reduce((solution, step) => {
-      return this.enhance(solution, step);
-    }, challenge);
-  }
-  
-  enhance(project, technique) {
-    return `${project} improved with ${technique}`;
-  }
-}
+### Core Technologies
+
+```mermaid
+mindmap
+  root((MERN))
+    MongoDB
+    Express.js
+    React.js
+    Node.js
 ```
 
-</div>
-
----
-
-## 🛠️ Tech Palette
-
-<div align="center">
-
-<h3>🎨 Frontend Canvas</h3>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-
-<h3>🔧 Backend Tools</h3>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-
-<h3>🎭 Design & Style</h3>
-
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Responsive_Design-5849BE?style=for-the-badge&logo=google-chrome&logoColor=white" />
-<img src="https://img.shields.io/badge/UI/UX-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
-<img src="https://img.shields.io/badge/Animation-0ACF83?style=for-the-badge&logo=framer&logoColor=white" />
-
-<h3>⚡ Other Skills</h3>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-8CAAE6?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Data_Structures-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-
-</div>
-
----
-
-## 🏆 Feature Projects
-
-<div align="center">
-
-<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-  <div style="flex: 1; margin: 0 10px;">
-    <h3>🤖 AI-Enhanced ChatGPT</h3>
-    <img src="https://img.shields.io/badge/MERN_Stack-000000?style=flat-square&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
-    <p>Next-gen conversational AI with 98% accuracy, seamless UX/UI and responsive design across all devices.</p>
-  </div>
-  <div style="flex: 1; margin: 0 10px;">
-    <h3>📊 AI-Resume Analyzer</h3>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/NLP-8CAAE6?style=flat-square&logo=openai&logoColor=white" />
-    <p>Smart resume parsing with interactive visualizations and 95% extraction accuracy.</p>
-  </div>
-</div>
-
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; margin: 0 10px;">
-    <h3>📱 Student Result System</h3>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-    <p>Multi-user platform with 85% decreased latency and intuitive interface for all stakeholders.</p>
-  </div>
-  <div style="flex: 1; margin: 0 10px;">
-    <h3>🚗 Luxury Car Rentals</h3>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-    <p>Premium car rental platform with sleek UI that reduced booking time by 25%.</p>
-  </div>
-</div>
-
-</div>
-
----
-
-## 📊 Performance Metrics
-
-<div align="center">
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=SPYD3ER-bat&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
-  </div>
+### Languages & Frameworks
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPYD3ER-bat&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Most Used Languages" width="44%" />
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=SPYD3ER-bat&theme=discord&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</div>
+
+### UI/UX & Design
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/UI/UX_Design-FF4785?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design" />
+  <img src="https://img.shields.io/badge/Responsive_Design-025E8C?style=for-the-badge&logo=responsivedesign&logoColor=white" alt="Responsive Design" />
+</div>
+
+### Other Technologies
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Data_Structures-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Data Structures" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=natural-language-processing&logoColor=white" alt="NLP" />
+</div>
+
 </div>
 
 ---
 
-## 🌐 Let's Connect
+## 🎓 Education
 
 <div align="center">
-  <a href="https://github.com/SPYD3ER-bat">
-    <img height="50" src="https://img.icons8.com/nolan/96/github.png"/>
-  </a>
-  <a href="https://www.linkedin.com/in/om-dev-sec/">
-    <img height="50" src="https://img.icons8.com/nolan/96/linkedin.png"/>
-  </a>
+  <img src="https://img.shields.io/badge/MCA-Masters_in_Computer_Application-4285F4?style=for-the-badge" alt="MCA" />
+  <p><strong>Sinhgad Institute of Management and Computer Application</strong> | Pune, Maharashtra, India</p>
+  <p>CGPA: 8.5 | Graduated: June 2024</p>
+  <p><em>Courses: Data Structures, Operating System, Java, Python, KR/AI, ML, OOPS, Networking</em></p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPYD3ER-bat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  
   <a href="mailto:om.sudhir.gawande@gmail.com">
-    <img height="50" src="https://img.icons8.com/nolan/96/apple-mail.png"/>
-  </a>
-  <a href="https://omdevportfolio.framer.website/">
-    <img height="50" src="https://img.icons8.com/nolan/96/domain.png"/>
+    <img src="https://img.shields.io/badge/Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Get In Touch" />
   </a>
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=SPYD3ER-bat&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,12,12,12,12&height=100&section=footer" width="100%"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SPYD3ER-bat&color=blue" alt="Profile views" />
+</p>
