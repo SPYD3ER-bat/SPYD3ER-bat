@@ -78,6 +78,4 @@ const om = {
 ---
 
 <p align="center">✨ Passionate about clean code, beautiful interfaces, and meaningful digital impact ✨</p>
-```
 
----
