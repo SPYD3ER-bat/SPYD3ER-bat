@@ -1,4 +1,4 @@
-![Header](./GitHeader.png)
+![Header](./GitHead.png)
 # OM GAWANDE
 
 <div align="center">
